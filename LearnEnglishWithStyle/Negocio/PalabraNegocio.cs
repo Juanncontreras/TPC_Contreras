@@ -21,7 +21,7 @@ namespace Negocio
 
             try
             {
-                accesoDatos.setearConsulta("select English,Spanish from IrregularVerbs");
+                accesoDatos.setearConsulta("select English,Spanish from IrregularVerbs order by English asc");
                 accesoDatos.abrirConexion();
                 accesoDatos.ejecutarConsulta();
 
@@ -56,7 +56,7 @@ namespace Negocio
 
             try
             {
-                accesoDatos.setearConsulta("select English,Spanish from RegularVerbs");
+                accesoDatos.setearConsulta("select English,Spanish from RegularVerbs order by English asc");
                 accesoDatos.abrirConexion();
                 accesoDatos.ejecutarConsulta();
 

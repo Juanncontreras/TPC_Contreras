@@ -51,3 +51,4 @@ C:\Users\Juann\Desktop\TPC_Contreras\LearnEnglishWithStyle\LearnEnglishWithStyle
 C:\Users\Juann\Desktop\TPC_Contreras\LearnEnglishWithStyle\LearnEnglishWithStyle\bin\Debug\Negocio.dll
 C:\Users\Juann\Desktop\TPC_Contreras\LearnEnglishWithStyle\LearnEnglishWithStyle\bin\Debug\AccesoDatos.pdb
 C:\Users\Juann\Desktop\TPC_Contreras\LearnEnglishWithStyle\LearnEnglishWithStyle\bin\Debug\Negocio.pdb
+C:\Users\Juann\Desktop\TPC_Contreras\LearnEnglishWithStyle\LearnEnglishWithStyle\obj\Debug\LearnEnglishWithStyle.UserLogin.resources

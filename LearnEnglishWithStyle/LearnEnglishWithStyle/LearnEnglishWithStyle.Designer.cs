@@ -96,7 +96,6 @@
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.gpMenuPrincipal);
             this.ForeColor = System.Drawing.SystemColors.WindowText;
-            this.IsMdiContainer = true;
             this.Name = "LearnEnglishWithStyle";
             this.Text = "LearnEnglishWithStyle";
             this.Load += new System.EventHandler(this.LearnEnglishWithStyle_Load);
