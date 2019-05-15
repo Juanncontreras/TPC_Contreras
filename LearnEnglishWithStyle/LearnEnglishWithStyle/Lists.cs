@@ -7,8 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using AccessData;
-using Dominio;
+using Negocio;
 
 namespace LearnEnglishWithStyle
 {
@@ -21,11 +20,13 @@ namespace LearnEnglishWithStyle
 
         private void btIrregularsVerbs_Click(object sender, EventArgs e)
         {
-            OpenConenct listar = new OpenConenct();
+
+            PalabraNegocio listar = new PalabraNegocio();
+
             try
             {
 
-                dgvLists.DataSource = listar.OpenConnection();
+                dgvLists.DataSource = listar.ListarIrregulares();
 
             }
             catch (Exception ex)
@@ -40,11 +41,13 @@ namespace LearnEnglishWithStyle
 
         private void BtRegularVerbs_Click(object sender, EventArgs e)
         {
-            OpenConenct listar = new OpenConenct();
+
+            PalabraNegocio listar = new PalabraNegocio();
+
             try
             {
 
-                dgvLists.DataSource = listar.OpenConnection1();
+                dgvLists.DataSource = listar.ListarRegulares();
 
             }
             catch (Exception ex)
@@ -52,6 +55,7 @@ namespace LearnEnglishWithStyle
 
                 MessageBox.Show(ex.ToString());
             }
+
         }
     }
 
