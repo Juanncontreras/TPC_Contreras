@@ -29,11 +29,11 @@ namespace AccesoDatos
         }
 
         //setear consulta embebida.
-        public void setearConsulta(string consulta)
+        public void setearConsulta(String consulta)
         {
             comando = new SqlCommand();
             comando.CommandType = System.Data.CommandType.Text;
-            comando.CommandText = consulta;
+            comando.CommandText = consulta; 
         }
 
         //esto para luego...

@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Negocio;
+using Dominio;
 
 namespace LearnEnglishWithStyle
 {
@@ -19,7 +21,29 @@ namespace LearnEnglishWithStyle
 
         private void BtAceptar_Click(object sender, EventArgs e)
         {
-            LearnEnglishWithStyle nuevaventana = new LearnEnglishWithStyle();
+            AccesoUsuarios accusu = new AccesoUsuarios();
+            Usuario user = new Usuario();
+
+
+            user.Email = tbEmail.Text.Trim().ToString();
+            user.Contraseña = tbContraseña.Text.Trim().ToString();
+
+            if (accusu.ValidarUsuarioRegistrado(user)==true)
+            {
+                LearnEnglishWithStyle nuevaventana = new LearnEnglishWithStyle(user.Email);
+                nuevaventana.Show();
+                
+            }
+            else
+            {
+                MessageBox.Show("Ingresar un usuario registrado por favor");
+            }
+            
+        }
+
+        private void BtRegistrate_Click(object sender, EventArgs e)
+        {
+            Registration nuevaventana = new Registration();
             nuevaventana.Show();
         }
     }

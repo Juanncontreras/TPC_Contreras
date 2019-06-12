@@ -59,6 +59,18 @@
     <Compile Include="Lists.Designer.cs">
       <DependentUpon>Lists.cs</DependentUpon>
     </Compile>
+    <Compile Include="ModifiyPersonalData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModifiyPersonalData.Designer.cs">
+      <DependentUpon>ModifiyPersonalData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModifyPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModifyPassword.Designer.cs">
+      <DependentUpon>ModifyPassword.cs</DependentUpon>
+    </Compile>
     <Compile Include="PrincipalVocabulary.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -85,6 +97,12 @@
     <EmbeddedResource Include="Lists.resx">
       <DependentUpon>Lists.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="ModifiyPersonalData.resx">
+      <DependentUpon>ModifiyPersonalData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModifyPassword.resx">
+      <DependentUpon>ModifyPassword.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="PrincipalVocabulary.resx">
       <DependentUpon>PrincipalVocabulary.cs</DependentUpon>
     </EmbeddedResource>
@@ -98,6 +116,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="Registration.resx">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="UserLogin.resx">
       <DependentUpon>UserLogin.cs</DependentUpon>
     </EmbeddedResource>

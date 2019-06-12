@@ -52,3 +52,26 @@ C:\Users\Juann\Desktop\TPC_Contreras\LearnEnglishWithStyle\LearnEnglishWithStyle
 C:\Users\Juann\Desktop\TPC_Contreras\LearnEnglishWithStyle\LearnEnglishWithStyle\bin\Debug\AccesoDatos.pdb
 C:\Users\Juann\Desktop\TPC_Contreras\LearnEnglishWithStyle\LearnEnglishWithStyle\bin\Debug\Negocio.pdb
 C:\Users\Juann\Desktop\TPC_Contreras\LearnEnglishWithStyle\LearnEnglishWithStyle\obj\Debug\LearnEnglishWithStyle.UserLogin.resources
+C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\LearnEnglishWithStyle\bin\Debug\LearnEnglishWithStyle.exe.config
+C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\LearnEnglishWithStyle\bin\Debug\LearnEnglishWithStyle.exe
+C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\LearnEnglishWithStyle\bin\Debug\LearnEnglishWithStyle.pdb
+C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\LearnEnglishWithStyle\bin\Debug\AccesoDatos.dll
+C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\LearnEnglishWithStyle\bin\Debug\Dominio.dll
+C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\LearnEnglishWithStyle\bin\Debug\Negocio.dll
+C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\LearnEnglishWithStyle\bin\Debug\AccesoDatos.pdb
+C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\LearnEnglishWithStyle\bin\Debug\Dominio.pdb
+C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\LearnEnglishWithStyle\bin\Debug\Negocio.pdb
+C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\LearnEnglishWithStyle\obj\Debug\LearnEnglishWithStyle.csprojAssemblyReference.cache
+C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\LearnEnglishWithStyle\obj\Debug\LearnEnglishWithStyle.LearnEnglishWithStyle.resources
+C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\LearnEnglishWithStyle\obj\Debug\LearnEnglishWithStyle.Lists.resources
+C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\LearnEnglishWithStyle\obj\Debug\LearnEnglishWithStyle.PrincipalVocabulary.resources
+C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\LearnEnglishWithStyle\obj\Debug\LearnEnglishWithStyle.Properties.Resources.resources
+C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\LearnEnglishWithStyle\obj\Debug\LearnEnglishWithStyle.UserLogin.resources
+C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\LearnEnglishWithStyle\obj\Debug\LearnEnglishWithStyle.csproj.GenerateResource.cache
+C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\LearnEnglishWithStyle\obj\Debug\LearnEnglishWithStyle.csproj.CoreCompileInputs.cache
+C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\LearnEnglishWithStyle\obj\Debug\LearnEnglishWithStyle.csproj.CopyComplete
+C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\LearnEnglishWithStyle\obj\Debug\LearnEnglishWithStyle.exe
+C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\LearnEnglishWithStyle\obj\Debug\LearnEnglishWithStyle.pdb
+C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\LearnEnglishWithStyle\obj\Debug\LearnEnglishWithStyle.Registration.resources
+C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\LearnEnglishWithStyle\obj\Debug\LearnEnglishWithStyle.ModifiyPersonalData.resources
+C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\LearnEnglishWithStyle\obj\Debug\LearnEnglishWithStyle.ModifyPassword.resources

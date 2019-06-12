@@ -9,7 +9,7 @@ using AccesoDatos;
 
 namespace Negocio
 {
-    public class PalabraNegocio
+    public class ListadosVocabulario
     {
 
         public List<Palabra> ListarIrregulares()

@@ -7,15 +7,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Dominio;
+using Negocio;
 
 
 namespace LearnEnglishWithStyle
 {
     public partial class LearnEnglishWithStyle : Form
     {
-        public LearnEnglishWithStyle()
+
+        private string Email;
+        
+        public LearnEnglishWithStyle(string email )
         {
             InitializeComponent();
+           Email = email;
         }
 
 
@@ -33,6 +39,27 @@ namespace LearnEnglishWithStyle
         private void LearnEnglishWithStyle_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void EditarDatosPersonalesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+            ModifiyPersonalData nueva = new ModifiyPersonalData(Email);
+            nueva.Show();
+            
+
+        }
+
+        private void DatosPersonalesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ModifiyPersonalData nueva = new ModifiyPersonalData(Email);
+            nueva.Show();
+        }
+
+        private void ContraseñaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ModifyPassword nueva = new ModifyPassword();
+            nueva.Show();
         }
     }
 }

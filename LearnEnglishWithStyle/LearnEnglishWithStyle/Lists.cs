@@ -21,7 +21,7 @@ namespace LearnEnglishWithStyle
         private void btIrregularsVerbs_Click(object sender, EventArgs e)
         {
 
-            PalabraNegocio listar = new PalabraNegocio();
+            ListadosVocabulario listar = new ListadosVocabulario();
 
             try
             {
@@ -42,7 +42,7 @@ namespace LearnEnglishWithStyle
         private void BtRegularVerbs_Click(object sender, EventArgs e)
         {
 
-            PalabraNegocio listar = new PalabraNegocio();
+            ListadosVocabulario listar = new ListadosVocabulario();
 
             try
             {

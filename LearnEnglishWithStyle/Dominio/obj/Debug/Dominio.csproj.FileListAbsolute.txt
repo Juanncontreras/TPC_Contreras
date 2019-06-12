@@ -16,3 +16,9 @@ C:\Users\Juann\Desktop\TPC_Contreras\LearnEnglishWithStyle\Dominio\obj\Debug\Dom
 C:\Users\Juann\Desktop\TPC_Contreras\LearnEnglishWithStyle\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
 C:\Users\Juann\Desktop\TPC_Contreras\LearnEnglishWithStyle\Dominio\obj\Debug\Dominio.dll
 C:\Users\Juann\Desktop\TPC_Contreras\LearnEnglishWithStyle\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\Dominio\bin\Debug\Dominio.dll
+C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\Dominio\obj\Debug\Dominio.dll
+C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\Dominio\obj\Debug\Dominio.pdb

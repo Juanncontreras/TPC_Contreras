@@ -9,3 +9,14 @@ C:\Users\Juann\Desktop\TPC_Contreras\LearnEnglishWithStyle\Negocio\obj\Debug\Neg
 C:\Users\Juann\Desktop\TPC_Contreras\LearnEnglishWithStyle\Negocio\obj\Debug\Negocio.csproj.CopyComplete
 C:\Users\Juann\Desktop\TPC_Contreras\LearnEnglishWithStyle\Negocio\obj\Debug\Negocio.dll
 C:\Users\Juann\Desktop\TPC_Contreras\LearnEnglishWithStyle\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\Negocio\bin\Debug\Negocio.dll
+C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\Negocio\bin\Debug\AccesoDatos.dll
+C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\Negocio\bin\Debug\Dominio.dll
+C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\Negocio\bin\Debug\AccesoDatos.pdb
+C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\Negocio\bin\Debug\Dominio.pdb
+C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\Negocio\obj\Debug\Negocio.dll
+C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\Negocio\obj\Debug\Negocio.pdb

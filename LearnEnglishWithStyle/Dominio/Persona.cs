@@ -15,6 +15,13 @@ namespace Dominio
 
         public int Dni { get; set; }
 
+        public int Edad { get; set; }
+
+        public bool Genero { get; set; } //1=Masculino , 0=Femenino 
+
+        public string Contraseña { get; set; }
+
+
 
     }
 }

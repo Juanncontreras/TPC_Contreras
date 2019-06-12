@@ -42,3 +42,15 @@ insert into RegularVerbs values
 ('CHALLENGE','DESAFIAR'),
 ('CAMP','ACAMPAR'),
 ('CHEAT','HACER TRAMPA')
+
+create table Usuarios (
+IDUsuario bigint primary key identity (1,1) not null,
+Nombre varchar (50) not null,
+Apellido varchar (50) not null,
+Email varchar (80) not null, 
+Dni int not null,
+Edad int not null, 
+Contraseña varchar (25) not null ,
+Tipo bit not null,
+Genero bit not null,
+)
