@@ -65,6 +65,7 @@
             this.btExit.TabIndex = 6;
             this.btExit.Text = "Exit";
             this.btExit.UseVisualStyleBackColor = true;
+            this.btExit.Click += new System.EventHandler(this.BtExit_Click);
             // 
             // btHelp
             // 
@@ -83,6 +84,7 @@
             this.btExercises.TabIndex = 4;
             this.btExercises.Text = "Excercises";
             this.btExercises.UseVisualStyleBackColor = true;
+            this.btExercises.Click += new System.EventHandler(this.BtExercises_Click);
             // 
             // btVocabulary
             // 
@@ -118,20 +120,20 @@
             this.datosPersonalesToolStripMenuItem,
             this.contraseñaToolStripMenuItem});
             this.editarUsuarioToolStripMenuItem.Name = "editarUsuarioToolStripMenuItem";
-            this.editarUsuarioToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.editarUsuarioToolStripMenuItem.Size = new System.Drawing.Size(147, 22);
             this.editarUsuarioToolStripMenuItem.Text = "Editar Usuario";
             // 
             // datosPersonalesToolStripMenuItem
             // 
             this.datosPersonalesToolStripMenuItem.Name = "datosPersonalesToolStripMenuItem";
-            this.datosPersonalesToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.datosPersonalesToolStripMenuItem.Size = new System.Drawing.Size(163, 22);
             this.datosPersonalesToolStripMenuItem.Text = "Datos Personales";
             this.datosPersonalesToolStripMenuItem.Click += new System.EventHandler(this.DatosPersonalesToolStripMenuItem_Click);
             // 
             // contraseñaToolStripMenuItem
             // 
             this.contraseñaToolStripMenuItem.Name = "contraseñaToolStripMenuItem";
-            this.contraseñaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.contraseñaToolStripMenuItem.Size = new System.Drawing.Size(163, 22);
             this.contraseñaToolStripMenuItem.Text = "Contraseña";
             this.contraseñaToolStripMenuItem.Click += new System.EventHandler(this.ContraseñaToolStripMenuItem_Click);
             // 

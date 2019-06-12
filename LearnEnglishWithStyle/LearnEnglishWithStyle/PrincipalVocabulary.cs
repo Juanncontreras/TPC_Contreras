@@ -24,7 +24,10 @@ using System.Windows.Forms;
             list.Show();
         }
 
-
+        private void BtExit_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 
 

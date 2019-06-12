@@ -61,5 +61,16 @@ namespace LearnEnglishWithStyle
             ModifyPassword nueva = new ModifyPassword();
             nueva.Show();
         }
+
+        private void BtExercises_Click(object sender, EventArgs e)
+        {
+            SelectExercise nueva = new SelectExercise();
+            nueva.Show();
+        }
+
+        private void BtExit_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

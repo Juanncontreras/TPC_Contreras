@@ -47,6 +47,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CardExercise.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CardExercise.Designer.cs">
+      <DependentUpon>CardExercise.cs</DependentUpon>
+    </Compile>
     <Compile Include="LearnEnglishWithStyle.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -85,6 +91,12 @@
     <Compile Include="Registration.Designer.cs">
       <DependentUpon>Registration.cs</DependentUpon>
     </Compile>
+    <Compile Include="SelectExercise.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectExercise.Designer.cs">
+      <DependentUpon>SelectExercise.cs</DependentUpon>
+    </Compile>
     <Compile Include="UserLogin.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -118,6 +130,9 @@
     </Compile>
     <EmbeddedResource Include="Registration.resx">
       <DependentUpon>Registration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectExercise.resx">
+      <DependentUpon>SelectExercise.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="UserLogin.resx">
       <DependentUpon>UserLogin.cs</DependentUpon>

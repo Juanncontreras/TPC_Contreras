@@ -75,3 +75,4 @@ C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\LearnE
 C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\LearnEnglishWithStyle\obj\Debug\LearnEnglishWithStyle.Registration.resources
 C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\LearnEnglishWithStyle\obj\Debug\LearnEnglishWithStyle.ModifiyPersonalData.resources
 C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\LearnEnglishWithStyle\obj\Debug\LearnEnglishWithStyle.ModifyPassword.resources
+C:\Users\Juann\Desktop\Programacion 3\TPC_Contreras\LearnEnglishWithStyle\LearnEnglishWithStyle\obj\Debug\LearnEnglishWithStyle.SelectExercise.resources
